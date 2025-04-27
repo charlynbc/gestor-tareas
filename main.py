@@ -122,7 +122,7 @@ def menu():
         else:
             print("Opción inválida. Por favor, seleccione una opción válida.")
 
-
+menu()
 
 
 
