@@ -117,7 +117,7 @@ def menu():
             cargar_tareas()
         elif opcion == "8":
             guardar_tareas()
-            print("¡Hasta luego {nombre_usuario}")
+            print(f"¡Hasta luego {nombre_usuario}!")
             break
         else:
             print("Opción inválida. Por favor, seleccione una opción válida.")
